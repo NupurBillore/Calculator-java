@@ -1,4 +1,4 @@
-# Java Calculator with a GUI
+# Java Calculator
 
 ![Calculator](/img/calculator.gif)
 
